@@ -1,6 +1,6 @@
 # <img src="http://www.rice.edu/_images/rice-logo.jpg" width=180> Comp427, Spring 2019, Project 5
 
-## Forensics
+## Internet and Forensics
 The project specifications, as well as the corresponding course slide decks,
 can be found on the Comp427 Campuswire.
 This assignment is due **Wednesday, April 23 at 7 p.m.**
