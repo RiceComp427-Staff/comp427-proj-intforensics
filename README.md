@@ -1,20 +1,18 @@
-# <img src="http://www.rice.edu/_images/rice-logo.jpg" width=180> Comp427, Spring 2019, Project 5
+# Comp427, Spring 2021, Project 5
 
 ## Internet and Forensics
-The project specifications, as well as the corresponding course slide decks,
-can be found on the Comp427 Campuswire.
-This assignment is due **Wednesday, April 23 at 7 p.m.**
+This assignment is due **Friday, April 30 at 5 p.m.**
 
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student1 name_: mustach io
+_Student1 name_: Dan WALLACH
 
-_Student1 NetID_: mustach.io
+_Student1 NetID_: dwallach
 
-_Student2 name_: nostach io
+_Student2 name_: Dan WALLACH
 
-_Student2 NetID_: nostach.io
+_Student2 NetID_: dwallach
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
