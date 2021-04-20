@@ -63,7 +63,7 @@ please cut-and-paste the text from that email here._
 (d) [your answer here]
 
 
-## Part 3: Forensics Report
+## Part 2: Forensics Report
 
 <!---
 Copy and paste the following template for all numbered prompts of the report.
